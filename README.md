@@ -19,3 +19,4 @@ we used the Data Visualization tool **Tableau**.
 
 ### Kibana
 
+In this project, we created dashboards around the causes of flight delays and cancellations in flight problems due to severe weather conditions, using the Data Visualization tool **Kibana**.
