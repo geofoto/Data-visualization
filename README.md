@@ -1,6 +1,8 @@
-# Data visualization
+# Data Visualization
 
-This repository contains samples for my Data visualization projects and reports created using **Power BI**, **Tableau** and **Kibana**.
+This repository contains samples for my Data Visualization projects and reports using real-world data, created with 
+**Power BI**, **Tableau** and **Kibana**.
+
 
 ### Power BI 
 
